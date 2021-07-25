@@ -3,10 +3,12 @@
     "ContainerConsoleApp": {
       "commandName": "Project",
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development",
         "REPETITIONS": "100000",
         "BUCKET": "prepavworkshop-avsimoutputbucket-1w2seo3elsc55"
       }
+    },
+    "Docker": {
+      "commandName": "Docker"
     }
   }
 }
